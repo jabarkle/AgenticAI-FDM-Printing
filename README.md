@@ -10,7 +10,7 @@ Based on code from CMU's Mechanical and Artificial Intelligence Lab (MAIL):
 ## Demo
 
 <p align="center">
-  <img src="demo.gif" width="800">
+  <img src="demo.gif" width="500">
 </p>
 
 > *GIF is sped up 3x. Full video* [Watch on Box](https://cmu.box.com/s/66qr8169kwcv31eveyu4qsd7v5mw6ppq)
