@@ -1,0 +1,1 @@
+[HumanMessage(content=['M106 S255', 'M140 S60', 'M104 S205'], id='5a1232e0-bc2f-4c07-b7cf-d4f16f0d065a')]

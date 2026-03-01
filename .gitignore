@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+temp/
+*.log
+.git/
+Overleaf/
+Project2Final.tex
+TESTING_NOTES.md
+TESTING_PLAN.md
+FinalVideo.mp4
+results_2.zip
+*.zip
