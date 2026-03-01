@@ -9,9 +9,13 @@ Based on code from CMU's Mechanical and Artificial Intelligence Lab (MAIL):
 
 ## Demo Video
 
-[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-blue?style=for-the-badge&logo=box)](https://cmu.box.com/s/66qr8169kwcv31eveyu4qsd7v5mw6ppq)
+https://github.com/user-attachments/assets/demo.mp4
 
-The video shows the full pipeline operating in real time: defect injection at 250°C, image capture, GPT-4o vision analysis, multi-agent diagnosis, autonomous parameter correction, and print resume.
+<video src="demo.mp4" width="720" autoplay loop muted></video>
+
+> *Video is sped up 2x. Full-length version with audio:* [Watch on Box](https://cmu.box.com/s/66qr8169kwcv31eveyu4qsd7v5mw6ppq)
+
+The video shows the full pipeline: defect injection at 250°C, image capture, GPT-4o vision analysis, multi-agent diagnosis, autonomous parameter correction, and print resume.
 
 ## System Architecture
 
