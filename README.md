@@ -10,10 +10,10 @@ Based on code from CMU's Mechanical and Artificial Intelligence Lab (MAIL):
 ## Demo
 
 <p align="center">
-  <img src="demo.gif" width="600">
+  <img src="demo.gif" width="800">
 </p>
 
-> *GIF is sped up 3x. Full vide* [Watch on Box](https://cmu.box.com/s/66qr8169kwcv31eveyu4qsd7v5mw6ppq)
+> *GIF is sped up 3x. Full video* [Watch on Box](https://cmu.box.com/s/66qr8169kwcv31eveyu4qsd7v5mw6ppq)
 
 The demo shows the full pipeline: defect injection at 250°C, image capture, GPT-4o vision analysis, multi-agent diagnosis, autonomous parameter correction, and print resume.
 
